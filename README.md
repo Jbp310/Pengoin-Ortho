@@ -2,7 +2,7 @@
 My first custom keyboard, an Ortholinear build for the Hackclub Keebs contest
 
 
-                            to-do:
+to-do:
 [x]Complete pcb Design     
 []Model case
 []Build BOM(Screw in Stabilizers, Hotswap sockets,etc)
